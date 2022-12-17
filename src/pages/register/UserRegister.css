@@ -1,0 +1,64 @@
+.register {
+    background: rgb(2, 0, 36);
+    /* background-image: linear-gradient(to right, red , blue); */
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  max-width: 800px;
+  width: 100%;
+  margin: auto;
+}
+.registerHeading {
+  width: 20%;
+  margin-bottom: 20px;
+  font-size: 40px;
+}
+.register > form {
+  width: 50%;
+  border: 1px solid rgb(24, 23, 23);
+
+  border-radius: 5px;
+}
+
+
+.register > form label{
+  font-size: 20px;
+  margin-right: 10px;
+}
+form label.name{
+    margin-right: 45px;
+}
+form label.username{
+    margin-right: 52px;
+}
+
+.register >form input{
+    padding: 15px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-style: none;
+    width: 70%;
+    margin-bottom: 10px;
+}
+
+.loginBtn{
+   margin-top: 20px; 
+   background: rgb(109, 20, 20);
+   color:aliceblue;
+   padding: 15px;
+   width: 100%;
+   font-size: 20px;
+   border-radius: 5px;
+}
+.para{
+    font-size: 20px;
+    
+}
+.signIn{
+    color: rgb(15, 157, 51);
+    text-decoration: none;
+    font-size: 20px;
+}

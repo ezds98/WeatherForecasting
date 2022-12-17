@@ -1,0 +1,44 @@
+.search{
+    outline: none;
+}
+
+.input{
+    display: flex;
+}
+
+.search{
+    border-radius: 5px;
+    padding: 6px;
+    width: auto;
+    text-transform: capitalize;
+    color: black;
+}
+
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    cursor: pointer;
+    transition: ease-out;
+    margin-left: 22px;
+}
+
+.icon:hover{
+    color: aliceblue;
+}
+
+.celsiusFaranite{
+    display: flex;
+    align-items: center;
+    /* width: 100%; */
+    justify-content: center;
+    font-size: 23px;
+    color: aliceblue;
+    margin-left:32px;
+}
+
+.celsius{
+
+ 
+}

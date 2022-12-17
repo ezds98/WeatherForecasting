@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f2fbff;
+}
+
+button, input {
+    font-family: 'Poppins', sans-serif;
+}
+
+.highlight {
+    color: #6c6cff;
+}

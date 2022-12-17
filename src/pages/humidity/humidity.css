@@ -1,0 +1,26 @@
+.mainHumidity {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 12px;
+  gap: 12px;
+  margin-top: 20px;
+  width: 80%;
+  margin-left: 132px;
+}
+.tempDetailsHumidity {
+  padding: 120px;
+  font-size: 40px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgb(0 0 0 / 5%);
+
+  background-color: #d3d3ff;
+}
+.tempDetailHumidityIcon {
+  font-size: 40px;
+  margin-bottom: -21px;
+  margin-right: 32px;
+}
+.temperature {
+  text-align: center;
+  justify-content: center;
+}

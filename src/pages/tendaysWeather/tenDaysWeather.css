@@ -1,0 +1,29 @@
+.main
+{
+    background-color: blue;
+    width: 100%;
+    color: aliceblue;
+    font-size: 20px;    
+}
+.heading{
+    display: flex;
+    justify-content: center;
+    /* margin: 20px; */
+    padding: 20px;
+}
+.horizontalLine{
+    color: white;
+    margin: 15px;
+}
+.tenDaysForecast{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.imageDetails{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+    
+}

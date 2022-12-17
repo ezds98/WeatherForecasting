@@ -1,0 +1,23 @@
+ .detailsPara {
+  text-align: center;
+  margin-top: -52px;
+  font-size: 57px;
+  margin-bottom: 8px;
+  width: 100%;
+}
+ .detailsSpan{
+  color: #6c6cff;
+}
+
+.tempDetails{
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  background-color: #d3d3ff;
+  border-radius: 8px;
+  width: 100%;
+}
+.tempDetails p{
+  font-size: 2rem;
+}
+
